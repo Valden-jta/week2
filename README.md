@@ -7,3 +7,5 @@ contiene los retos de esta semana
 - realización retos 1 - 6
 
 - subida retos 1 - 6 a dia1
+
+- subida retos 7 y 8 a dia1
