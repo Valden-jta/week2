@@ -13,4 +13,4 @@
 - merge main - dia2
 
 ## Repaso 1
--reto condicionales completado
+- reto condicionales completado
