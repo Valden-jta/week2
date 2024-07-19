@@ -1,4 +1,3 @@
-# week2
-contiene los retos de esta semana
+## Día 2
 
-- subida retos 1-7
+- todos los retos completados
