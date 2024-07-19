@@ -1,6 +1,5 @@
-# week2
+##Dia1
 
-contiene los retos de esta semana
 
 - creacion dia1, dia2, dia3, dia4.
 
