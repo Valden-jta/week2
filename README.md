@@ -1,4 +1,4 @@
-##Dia1
+# Dia1
 
 
 - creacion dia1, dia2, dia3, dia4.
