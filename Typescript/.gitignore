@@ -1,8 +1,1 @@
-person.js
-personTest.js
-contacts.js
-contactsTest.js
-book.js
-bookTest.js
-library.js
-libraryTest.js
+*.js
