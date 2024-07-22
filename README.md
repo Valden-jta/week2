@@ -16,3 +16,8 @@
 ## Repaso 1
 - todos los retos completados
 - merge main - repaso1
+
+## Repaso2
+
+- Retos completos
+- merge main - repaso2
