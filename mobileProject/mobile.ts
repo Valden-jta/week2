@@ -57,7 +57,7 @@ export class Mobile {
 
   // métodos públicos
   public print(): void {
-    console.log(`The characteristics of the mobile are:\n
+    console.log(`The characteristics of the ${this._name} are:\n
             • Name: ${this._name}\n
             • Trademark: ${this._trademark}\n
             • model: ${this._model}\n
