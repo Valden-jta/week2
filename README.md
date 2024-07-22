@@ -17,7 +17,7 @@
 - todos los retos completados
 - merge main - repaso1
 
-## Repaso2
+## Repaso2 (mobileProject)
 
 - Retos completos
 - merge main - repaso2
