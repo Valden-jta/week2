@@ -15,4 +15,4 @@
 
 ## Repaso 1
 - todos los retos completados
--merge main - repaso1
+- merge main - repaso1
